@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Nos están envenenando? Lo que aprendí del Dr. Olea"
+title: "¿Nos están envenenando??? Lo que aprendí del Dr. Olea"
 date: 2026-01-07
 categories: bienestar
 ---
@@ -10,6 +10,14 @@ Hoy quiero compartir un resumen de la entrevista al **Dr. Nicolás Olea**. Como 
 Git init
 Git add .
 git remote add origin https://github.com/RobertoGonzalezFontenla/GithubpageRoberto.git
+git pull origin main
+git add .
+git commit -m "Conectando VS Code y subiendo primer post"
+git push -u origin main
+
+da errror porque la rama main en mi rama local es master
+
+git branch -M main
 
 
 ## 3 puntos clave para nuestra comunidad tech:
